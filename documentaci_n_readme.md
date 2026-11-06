@@ -4,17 +4,17 @@
 
 ---
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 Facilitar y acelerar el proceso de adopción de mascotas, además de proveer una herramienta rápida con **mapa en tiempo real** para que cualquier ciudadano pueda reportar un animal en situación de calle para su posterior rescate.
 
 ---
 
-## 🚀 Estado Actual del Proyecto
+##  Estado Actual del Proyecto
 
 Actualmente el proyecto cuenta con un **prototipo funcional** con interfaces responsivas (Web en HTML/JS y versión inicial en Flutter).
 
-### 🛠️ Funcionalidades Implementadas (Prototipo Frontend)
+###  Funcionalidades Implementadas (Prototipo Frontend)
 - [x] **Autenticación con Roles:** Selección entre cuenta de *Persona Normal* u *Organización/Refugio*.
 - [x] **Página Principal / Feed:** Exploración de mascotas en adopción con filtros por especie (perros, gatos, otros).
 - [x] **Módulo de Rescate Callejero:** Captura de fotos y marcado de coordenadas geográficas en tiempo real mediante un mapa interactivo.
@@ -22,7 +22,7 @@ Actualmente el proyecto cuenta con un **prototipo funcional** con interfaces res
 - [x] **Barra de Navegación Inferior (Scroll Bar / Dock):** Navegación persistente y fluida tras iniciar sesión.
 - [x] **Gestión de Organización:** Panel para publicar y listar mascotas en adopción.
 
-### ⚠️ Lo que falta por construir o pulir (Pendiente de verificación / desarrollo)
+###  Lo que falta por construir o pulir (Pendiente de verificación / desarrollo)
 - [ ] Conexión a un **backend real** (Firebase, Supabase o Node.js/PostgreSQL) para persistir datos.
 - [ ] Verificación de autenticación de seguridad (Login real con correo y contraseña).
 - [ ] Guardado real de imágenes en almacenamiento en la nube (AWS S3, Cloudinary o Firebase Storage).
@@ -31,7 +31,7 @@ Actualmente el proyecto cuenta con un **prototipo funcional** con interfaces res
 
 ---
 
-## 💻 ¿Cómo probar el proyecto?
+##  ¿Cómo probar el proyecto?
 
 ### Opción 1: Probar en el Navegador Web (HTML/JS)
 1. Abre el archivo `index.html` directamente en tu navegador (haciendo doble clic).
@@ -54,6 +54,28 @@ Actualmente el proyecto cuenta con un **prototipo funcional** con interfaces res
 
 ---
 
-## 🤝 ¿Quieres colaborar?
+#  Guía de Contribución - RescU RefugioDigital
 
-¡Todas las contribuciones son bien recibidas! Consulta nuestra guía de [CONTRIBUTING.md](./CONTRIBUTING.md) para conocer las formas en que puedes ayudar.
+¡Gracias por tu interés en colaborar con **RescU RefugioDigital**! No necesitas ser un programador experto para ayudar a los animales; existen muchas maneras de sumarte al proyecto.
+
+---
+
+##  Formas en las que puedes colaborar
+
+### 1.  Reportar Fallos o Errores (Bugs)
+Si al usar la app encuentras un botón que no funciona, una pantalla descuadrada o un error en la carga del mapa:
+- Abre una **Issue** en GitHub.
+- Describe qué estabas haciendo cuando ocurrió el error.
+- Si es posible, adjunta una captura de pantalla.
+
+### 2.  Proponer Nuevas Ideas o Mejoras de Diseño (UI/UX)
+¿Tienes una idea para hacer la app más intuitiva o bonita?
+- Puedes proponer sugerencias de paletas de colores, íconos o flujos de adopción más sencillos abriendo una **Issue de Propuesta**.
+
+### 3.  Agregar Información de Refugios Reales
+Para que la app sea útil en el mundo real, necesitamos datos de refugios, rescatistas independientes y ONGs reales.
+- Puedes ayudarnos enviando un listado con: *Nombre del refugio, ciudad/ubicación, contacto (teléfono/correo) y redes sociales*.
+
+### 4.  Difundir y Compartir
+- Ayúdanos compartiendo el repositorio o la app con amigos, rescatistas y comunidades de amantes de las mascotas para hacer crecer la red.
+
