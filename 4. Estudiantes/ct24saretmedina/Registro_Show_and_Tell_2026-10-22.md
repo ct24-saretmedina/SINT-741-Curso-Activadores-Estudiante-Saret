@@ -125,7 +125,9 @@
 
 ## Evidencia
 
-- [Minuta de la sesión](https://docs.google.com/document/d/1zfol4tkVyMcseSq8gHQ-CSvlYBC0_jneLYu75JhEHq4/edit?usp=drivesdk)
-- [Transcripción de la sesión](https://drive.google.com/file/d/1lWc4uXc8SMu66A_OrcC0kbLi6mUJWOTq/view?usp=drivesdk)
-- [Grabación de la clase](https://drive.google.com/file/d/1BNPZp9_-4II00XNJH-m5iP0puG2MJiju/view?usp=drivesdk)
-- [Mi proyecto: RescU](https://github.com/ct24-saretmedina/RescU)
+- [Minuta de la sesión](https://docs.google.com/document/d/1zfol4tkVyMcseSq8gHQ-CSvlYBC0_jneLYu75JhEHq4/edit?usp=drivesdk
+)
+- [Transcripción de la sesión](https://drive.google.com/file/d/1lWc4uXc8SMu66A_OrcC0kbLi6mUJWOTq/view?usp=drivesdk
+)
+- [Grabación de la clase]( https://drive.google.com/file/d/1BNPZp9_-4II00XNJH-m5iP0puG2MJiju/view?usp=drivesdk)
+
